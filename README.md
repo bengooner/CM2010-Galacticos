@@ -2,7 +2,9 @@
 
 Championship Manager 2010 Cheat Table
 
-For use with Cheat Engine
+.CT for use with Cheat Engine
+
+.amt for use with ArtMoney
 
 You need to reattach the table, keeping the address list when restarting the game while the table is open
 
